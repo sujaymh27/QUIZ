@@ -1,36 +1,36 @@
 # Java Quiz Game 🎮
 
-This is a basic *Java console quiz game* I created as a first-year college student.  
-It uses *Object-Oriented Programming (OOP)* concepts like classes and objects.
+This is a simple *console-based multiple-choice quiz game* built using *Java*.  
+It includes some basic *Object-Oriented Programming (OOP)* concepts like classes, objects, and methods.
 
 ---
 
-## 📘 What It Does
+## 📌 What it Does
 
-- Asks the user for their name and age
-- Generates a random entry code to start the quiz
-- Asks 6 multiple-choice questions
-- Gives a score out of 6
-- Shows a message based on your score
-
----
-
-## 💡 Features
-
-- Uses Java Scanner for input
-- Uses class and object (OOP basics)
-- Entry key system for starting quiz
-- Score and result display
+- Takes your *name* and *age* as input  
+- Uses Math.random() to generate a *random entry key*
+- You must enter the correct key to start the quiz  
+- Asks *6 multiple-choice questions*
+- Calculates your *final score* and gives feedback at the end
 
 ---
 
-## 🧪 How to Run
+## 💡 Key Concepts Used
 
-1. Open Quiz.java in any Java IDE like IntelliJ, Eclipse, or VS Code.
-2. Run the program.
-3. Enter your name and age.
-4. Type $ to get your quiz code.
-5. Enter the correct code to start.
-6. Answer 6 questions and see your result!
+- Java basics (input, conditions, loops)
+- **Math.random()** for entry key generation
+- Basic *OOP* (class, object, method)
+- Console input with Scanner
+
+---
+
+## ▶ How to Run
+
+1. Open the file Quiz.java in any Java IDE (like IntelliJ, Eclipse, or VS Code)
+2. Run the program
+3. Enter your details
+4. Type S to get the random key
+5. Enter the correct key to begin the quiz
+6. Answer the questions and view your score
 
 ---
