@@ -29,7 +29,7 @@ It uses *Object-Oriented Programming (OOP)* concepts like classes and objects.
 1. Open Quiz.java in any Java IDE like IntelliJ, Eclipse, or VS Code.
 2. Run the program.
 3. Enter your name and age.
-4. Type S to get your quiz code.
+4. Type $ to get your quiz code.
 5. Enter the correct code to start.
 6. Answer 6 questions and see your result!
 
